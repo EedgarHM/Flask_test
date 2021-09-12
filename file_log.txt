@@ -24,3 +24,11 @@ Distance Beetwen Ring Road and 64.103172, 41.392194 is approximate: 2507 KM
 Distance Beetwen Ring Road and 41.392194,64.103172 is approximate: 950 KM
 Coordinates 37.842762,55.774558 exists in MKAD File
 Distance Beetwen Ring Road and 55.802781,37.840004 is approximate: 2418 KM
+Coordinates 37.842762,55.774558 exists in MKAD File
+Distance Beetwen Ring Road and -73.987333, 40.745668 is approximate: 7527 KM
+Distance Beetwen Ring Road and 37.841828, 55.747399 is approximate: 15 KM
+Distance Beetwen Ring Road and 55.747399,37.841828 is approximate: 2418 KM
+Distance Beetwen Ring Road and 37.842627, 55.755723 is approximate: 15 KM
+Coordinates 37.842762,55.774558 exists in MKAD File
+Coordinates 37.842627,55.755723 exists in MKAD File
+Distance Beetwen Ring Road and 55.755723,37.84262 is approximate: 2418 KM
